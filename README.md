@@ -5,7 +5,7 @@ Separate feed that provides details about the local leaders and politicians and 
 A dedicated grievance section for the public to voice their problems, and for the leaders to hear them.
 A dedicated panel with all the relevant helpline numbers that the people can use in case of emergencies.
 
-![](header.png)
+![](home)
 
 
 
